@@ -21,3 +21,10 @@ mod "garethr-docker",         '5.3.0'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+mod 'role'
+	:git => 'https://github.com/riverthead42/puppet-role.git',
+	:ref => 'master'
+
+mod 'profile'
+	:git => 'https://github.com/riverthead42/puppet-profile.git',
+	:ref => 'master'
