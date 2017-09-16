@@ -9,6 +9,8 @@ mod "saz-sudo", 	      '4.2.0'
 mod "puppetlabs-java",        '2.1.0'
 mod "puppetlabs-nginx",       '99.99.99'
 mod "puppetlabs-apache",      '2.1.0'
+mod "puppet-selinux",         '1.2.0'
+mod "garethr-docker",         '5.3.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
